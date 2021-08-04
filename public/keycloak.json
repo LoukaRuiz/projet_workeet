@@ -1,0 +1,9 @@
+{
+    "realm": "workeet",
+    "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkKGXoXm9MDWWIG11jSKRm47ES0iAcfat7otg7HWSzYuFVUMthvCZqS//Cj/iARVraj72fEBC33D5jJdos2Tm7PqFQzT533knxTQ6F8d12jJjxeKvDADfuVa6WBKVtWVJ3pokG+m16Y0PNNIdECHVuh9/p/B4Akh6mkYgoBReftQ60kpHoJx2UNTy7ySUOseeeOgfN03ict1/J1cr1TcvhEAYDeexQgCpNNhvXFOOIyJjLMyfbf8B8vTK7JdQ9ZK6qUhxyyakfjO4aMwkOyKzB2WJui9B+BOc1e88tvhLSiWneY/wTe8jD5d/ES5eTLSXhzJrgEAw5Jskf8yKv3IrpQIDAQAB",
+    "auth-server-url": "https://keycloak.nibaldonoso.fr/auth",
+    "ssl-required": "external",
+    "resource": "react-app-workeet",
+    "public-client": true,
+    "confidential-port": 0
+}
