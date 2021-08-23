@@ -1,8 +1,0 @@
-{
-    "realm": "workeet",
-    "auth-server-url": "https://keycloak.nibaldonoso.fr/auth/",
-    "ssl-required": "none",
-    "resource": "react-app-workeet-local",
-    "public-client": true,
-    "confidential-port": 0
-}

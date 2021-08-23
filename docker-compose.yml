@@ -1,7 +1,0 @@
-version: "2"
-
-services:
-  test:
-    build: .
-    ports:
-    - 5656:3000

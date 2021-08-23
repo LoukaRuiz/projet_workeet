@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "api_workeet",
+            "script": "npm",
+            "args": "start"
+        }
+    ]
+}

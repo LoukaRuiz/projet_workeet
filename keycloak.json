@@ -1,0 +1,8 @@
+{
+  "realm": "workeet",
+  "bearer-only": true,
+  "auth-server-url": "https://keycloak.nibaldonoso.fr/auth/",
+  "ssl-required": "external",
+  "resource": "api-service-workeet",
+  "confidential-port": 0
+}
